@@ -1,8 +1,6 @@
 #Simple-API-FlaskPython-SQL
 
-create project
-
--mkdir nameproject
+create project : mkdir nameproject
 
 -pip3 install flask
 
