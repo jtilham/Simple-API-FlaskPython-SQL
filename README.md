@@ -1,9 +1,11 @@
 #Simple-API-FlaskPython-SQL
 
 create project
+
 -mkdir nameproject
 
 -pip3 install flask
+
 -pip3 install python-dotenv
 -pip3 install flask-sqlalchemy
 -pip3 install flask-migrate
